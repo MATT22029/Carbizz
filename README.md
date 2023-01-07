@@ -10,5 +10,5 @@ Carbizz is a car buying website where it promotes electric and hydrogen car
 ![Screenshot (103)](https://user-images.githubusercontent.com/119472165/211154591-9f4dbf21-5db9-4583-bed8-dd573a89b658.png)
 ![Screenshot (104)](https://user-images.githubusercontent.com/119472165/211154655-fdd9f44b-3992-4a8b-ad85-125e87c96a55.png)
 ![Screenshot (105)](https://user-images.githubusercontent.com/119472165/211154595-163cbb43-f297-4678-ad5a-557d20376dcb.png)
--2f6ca69266![Screenshot (106)](https://user-images.githubusercontent.com/119472165/211154597-77c4e190-6a0b-4ee4-a701-cd7937b85ef2.png)
-a6.png)
+![Screenshot (106)](https://user-images.githubusercontent.com/119472165/211154597-77c4e190-6a0b-4ee4-a701-cd7937b85ef2.png)
+
